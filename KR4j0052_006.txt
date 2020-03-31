@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山中白雲詞
-#+DATE: 2020-03-31 11:42:57.880812
+#+DATE: 2020-03-31 11:42:57.961176
 #+PROPERTY: ID KR4j0052
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 6
 <pb:KR4j0052_WYG_006-1a>¶
 　　欽定四庫全書¶
@@ -137,7 +137,7 @@
 杳看野水流冰舟閒渡口何必見安道　慵登眺脉脉¶
 霏霏未了寒威猶自清峭終須幾日開晴去無奈此時¶
 <pb:KR4j0052_WYG_006-6a>¶
-懷抱空暗惱料酒興歌情未肯隨人老惜花起早𢬵醉¶
+懷抱空暗惱料酒興歌情未肯隨人老惜花起早拚醉¶
 裏忘歸接䍦更好一笑任傾倒¶
 ¶
 　　滿江紅¶

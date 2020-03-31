@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 山中白雲詞
-#+DATE: 2020-03-31 11:42:57.846360
+#+DATE: 2020-03-31 11:42:57.934204
 #+PROPERTY: ID KR4j0052
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4j0052_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -67,7 +67,7 @@
 紫曲門荒當年(一作時)遊慣　簫鼓黄昏動人心處(一作事)¶
 情無限錦街不甚月明多早巳驕塵滿纔過風柔夜暖¶
 <pb:KR4j0052_WYG_002-3b>¶
-漸迤𨓦芳程遞趲向西湖去(一作舊曽游處)那里人家依然鶯¶
+漸迤邐芳程遞趲向西湖去(一作舊曽游處)那里人家依然鶯¶
 燕¶
 ¶
 　　憶舊遊¶
